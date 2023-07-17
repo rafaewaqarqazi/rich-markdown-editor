@@ -9,7 +9,10 @@ The editor is WYSIWYG and includes formatting tools whilst retaining the ability
 
 > Important Note: This project is **not attempting to be an all-purpose Markdown editor**. It is built for the [Outline](http://getoutline.com) knowledge base, and whilst others are welcome to fork or use this package in your own products, development decisions are centered around the needs of Outline.
 
-
+## What's New
+> This is a fork of the original [rich-markdown-editor](https://github.com/outline/rich-markdown-editor). This fork adds the following features:
+> - Update React to v18
+> - Update Storybook to v7
 
 ## Usage
 
